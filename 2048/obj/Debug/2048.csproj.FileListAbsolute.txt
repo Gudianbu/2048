@@ -1,0 +1,11 @@
+C:\Users\ACFUN\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\ACFUN\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\ACFUN\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\_2048.Game_OverFrom.resources
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\_2048.MainForm.resources
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\_2048.messageBox.resources
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\2048.pdb
+C:\Users\ACFUN\Desktop\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
